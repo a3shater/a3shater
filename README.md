@@ -8,7 +8,7 @@
 ### Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,mongodb,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,fi,figma&perline=3" />
   </a>
 </p>
 <hr/>
