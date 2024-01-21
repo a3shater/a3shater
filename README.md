@@ -6,7 +6,7 @@
 - 🔭 email us a.3.shater@gmail.com.
 
 ### Skills
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,mongodb,figma&perline=3" />
   </a>
