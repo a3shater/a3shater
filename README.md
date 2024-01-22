@@ -9,8 +9,7 @@
 
 - 🔰 Graph Api from meta
 - 🔰 Filament laravel
-- ة
-- ةغ
+
 ### Skills
 <p>
   <a href="https://github.com/a3shater?tab=repositories">
