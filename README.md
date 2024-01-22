@@ -18,7 +18,7 @@
   </a>
 </p>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api?username=a3shater&count_private=true&show_icons=true&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=a3shater&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=a3shater&theme=flat&no-frame=true&margin-w=30" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3shater&hide_title=true&layout=compact" />
 
