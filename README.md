@@ -15,7 +15,7 @@
 ### Skills
 <p>
   <a href="https://github.com/a3shater?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,figma,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,figma,tailwind,react,nextjs,typescript" />
     <img src="https://private-user-images.githubusercontent.com/67605105/271541683-0d01916e-b864-4279-9787-2a57cf0b4813.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU4NjAzMzUsIm5iZiI6MTcwNTg2MDAzNSwicGF0aCI6Ii82NzYwNTEwNS8yNzE1NDE2ODMtMGQwMTkxNmUtYjg2NC00Mjc5LTk3ODctMmE1N2NmMGI0ODEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIxVDE4MDAzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNlYjY4YmYyMzBmZjRhYjFiYjdmMjljMTc4MDZkYmY3NGI1ZTc2MWUyNTVlMWM4OGEyODQ3YjJjYzk0NDdmYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bC33g3JIoHcsEaW7ZN43SxkaVkQo9rujW0RLk5PjuAE" />
   </a>
 </p>
