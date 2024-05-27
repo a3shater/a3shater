@@ -24,3 +24,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3shater&hide_title=true&layout=compact" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hishamco&theme=gruvbox_duo&hide_border=true)](https://github.com/a3shater)
+
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/a3shater/a3shater/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a3shater/a3shater/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/a3shater/a3shater/output-3d-contrib/day.svg" />
+	</picture>
+</p>
