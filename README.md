@@ -1,10 +1,3 @@
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/a3shater/a3shater/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a3shater/a3shater/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/a3shater/a3shater/output-3d-contrib/day.svg" />
-	</picture>
-</p>
 ### Hi there 👋
 #### Github accounts : [a3shater](https://github.com/a3shater) - [a3shater-dev](https://github.com/a3shater-dev)
 - 👋 I'm a Full stack developer, love to work with frameworks and technologies.
