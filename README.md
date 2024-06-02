@@ -1,4 +1,5 @@
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md) | ### Hi there 👋
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md) 
+### Hi there 👋
 #### Github accounts : [a3shater](https://github.com/a3shater) - [a3shater-dev](https://github.com/a3shater-dev)
 - 👋 I'm a Full stack developer, love to work with frameworks and technologies.
 - 🏠 I live in Yemen - Mukalla.
