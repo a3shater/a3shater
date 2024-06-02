@@ -12,7 +12,7 @@
 ### Skills
 <p>
   <a href="https://github.com/a3shater?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,figma,tailwind,react,nextjs,typescript&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,figma,tailwind,react,nextjs,typescript&perline=5" />
   </a>
 </p>
 <hr/>
