@@ -2,7 +2,7 @@
 - 👋 I'm a Full stack developer, love to work with frameworks and technologies.
 - 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently working on special projects.
-- 🔭 email us a.3.shater@gmail.com.
+- 🔭 contact us a.3.shater@gmail.com.
 
 ### My special experience 
 
