@@ -1,4 +1,4 @@
-### Hi there 👋 | Github accounts : [1](https://github.com/a3shater) - [2](https://github.com/a3shater-dev)
+### Hi there 👋 | Github accounts : [a3shater](https://github.com/a3shater) - [a3shater-dev](https://github.com/a3shater-dev)
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md) 
 - 👋 I'm a Full stack developer, love to work with frameworks and technologies.
 - 🏠 I live in Yemen - Mukalla.
