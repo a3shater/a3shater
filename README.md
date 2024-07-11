@@ -1,4 +1,4 @@
-### <p vertical-align="middle">Hi there 👋 | <img src="https://komarev.com/ghpvc/?username=a3shater&label=Views&color=0e75b9" alt="a3shater" /></p>
+### <p vertical-align="middle">Hi there 👋 | <img src="https://komarev.com/ghpvc/?username=a3shater&label=Views&color=0e1568" alt="a3shater" /></p>
 ### Github accounts : [a3shater](https://github.com/a3shater) - [a3shater-dev](https://github.com/a3shater-dev)
 - 👋 I'm a Full stack developer, love to work with frameworks and technologies.
 - 🏠 I live in Yemen - Mukalla.
