@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=a3shater&label=Views" alt="a3shater" />
 
 - 👋 I'm a Full stack developer, I love to work with frameworks and technologies.
-- 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently working on special projects.
 - 🔭 contact us a.3.shater@gmail.com.
 
